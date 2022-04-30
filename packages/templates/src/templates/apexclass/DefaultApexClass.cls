@@ -1,6 +1,6 @@
 /**
 * @author 		Ramón Prades
-* @date 		April 2022
+* @date 		$CURRENT_MONTH_NAME $CURRENT_YEAR
 * @group 		Accounts
 * @description 	Enter a description
 */
